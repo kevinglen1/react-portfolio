@@ -14,7 +14,7 @@ export default function Profile() {
               </a>
             </div>
           </div>
-          <div className="profile-details-namer">
+          <div className="profile-details-name">
             <span className="primary-text">
               {" "}
               Hello, I'm <span className="highlighted-text">Kevin</span>
