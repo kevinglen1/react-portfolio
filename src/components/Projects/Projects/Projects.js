@@ -3,9 +3,9 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "../ProjectCards/ProjectCard";
 import warImage from "../../../assets/war_screenshot.png";
 import storyOutlinerImage from "../../../assets/story_outliner_screenshot.png"
-import nbaImage from "../../../assets/nba_screenshot.png"
+import nbaImage from "../../../assets/nba_hoop.jpg"
 import signatureImage from "../../../assets/email_signature_screenshot.png"
-import inventoryImage from "../../../assets/inventoryImage.png"
+import inventoryImage from "../../../assets/inventory.jpg"
 
 export default function Projects() {
   return (
@@ -60,16 +60,6 @@ export default function Projects() {
               title="War!"
               description="A digital recreation of the classic card game."
               link="https://github.com/soumyajit4419/AI_For_Social_Good"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              // imgPath={emotion}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              link="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
             />
           </Col>
         </Row>

@@ -32,7 +32,7 @@ export default function Profile() {
                     1000,
                     "MERN Stack Dev",
                     1000,
-                    "Admin Automation with Python",
+                    "Admin Automation",
                     1000,
                   ]}
                 />

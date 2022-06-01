@@ -1,0 +1,13 @@
+/* .card {
+
+} */
+
+.btn {
+    position: absolute;
+    bottom: 5px;
+}
+
+.card-text {
+    position: absolute;
+    bottom: 60px;
+}
