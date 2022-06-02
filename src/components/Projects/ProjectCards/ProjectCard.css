@@ -1,13 +1,13 @@
-/* .card {
+.card-image {
+    position: relative;
+}
+.card-img {
+    object-fit: cover;
+    height: 280px;
+}
 
-} */
-
-.btn {
+ .card-btn {
     position: absolute;
     bottom: 5px;
 }
 
-.card-text {
-    position: absolute;
-    bottom: 60px;
-}

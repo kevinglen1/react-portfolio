@@ -1,11 +1,11 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "../ProjectCards/ProjectCard";
-import warImage from "../../../assets/war_screenshot.png";
-import storyOutlinerImage from "../../../assets/story_outliner_screenshot.png"
-import nbaImage from "../../../assets/nba_hoop.jpg"
-import signatureImage from "../../../assets/email_signature_screenshot.png"
-import inventoryImage from "../../../assets/inventory.jpg"
+import warImage from "../../../assets/card_game.jpg";
+import storyOutlinerImage from "../../../assets/book.jpg"
+import nbaImage from "../../../assets/nba_2.jpg"
+import signatureImage from "../../../assets/handwriting.jpg"
+import inventoryImage from "../../../assets/inventory_2.jpg"
 
 export default function Projects() {
   return (

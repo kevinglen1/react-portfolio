@@ -12,6 +12,9 @@ export default function Profile() {
               <a href="https://www.linkedin.com/in/kevin-glen/">
                 <i className="fa fa-linkedin-square"></i>
               </a>
+              <a href="https://github.com/kevinglen1">
+                <i className="fa fa-brands fa-github"></i>
+              </a>
             </div>
           </div>
           <div className="profile-details-name">
