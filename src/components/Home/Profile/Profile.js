@@ -1,6 +1,7 @@
 import React from "react";
 import Typical from "react-typical";
 import "./Profile.css";
+import Resume from "../../../assets/Kevin_Glen_Resume.pdf"
 
 export default function Profile() {
   return (
@@ -46,8 +47,7 @@ export default function Profile() {
             </span>
           </div>
           <div className="profile-options">
-            <button className="btn primary-btn"> Hire Me </button>
-            <a href="KevinGlen.pdf" download="KevinGlen.pdf">
+            <a href={Resume} download>
               <button className="btn highlighted-btn">Get Resume</button>
             </a>
           </div>
