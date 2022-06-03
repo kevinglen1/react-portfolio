@@ -48,7 +48,7 @@ export default function Profile() {
           </div>
           <div className="profile-options">
             <a href={Resume} download>
-              <button className="btn highlighted-btn">Get Resume</button>
+              <button className="btn highlighted-btn">Download Resume / CV</button>
             </a>
           </div>
         </div>

@@ -1,0 +1,32 @@
+.skills-list {
+    -webkit-text-size-adjust: 100%;
+    font-family: 'Swiss721 Hv BT heavy';
+    color: #191919;
+    box-sizing: border-box;
+    transition: all 0.3s;
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+}
+.skills-section {
+    display: block;
+
+}
+.wrapper {
+    margin: 0 auto;
+}
+
+.skills-list .skills-item {
+    -webkit-text-size-adjust: 100%;
+    font-family: 'Swiss721 Hv BT heavy';
+    color: #191919;
+    list-style: none;
+    box-sizing: border-box;
+    transition: all 0.3s;
+    text-align: center;
+    width: 25%;
+    margin-bottom: 150px;
+    font-size: 50px;
+}
