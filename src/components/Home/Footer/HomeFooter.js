@@ -1,10 +1,10 @@
 import React from 'react'
-import './Footer.css'
+import './HomeFooter.css'
 
-export default function Footer() {
+export default function HomeFooter() {
     return(
-        <div className='footer-container'>
-            <div className='footer-parent'>
+        <div className='home-footer-container'>
+            <div className='home-footer-parent'>
                 <img src={require('../../../assets/home/shape-bg.png')}
                 alt=""/>
             </div>

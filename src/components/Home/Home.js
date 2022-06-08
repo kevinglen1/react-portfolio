@@ -1,6 +1,6 @@
 import React from 'react'
 import Profile from './Profile/Profile'
-import Footer from './Footer/Footer'
+import HomeFooter from './Footer/HomeFooter'
 import "./Home.css"
 
 export default function Home() {
@@ -8,7 +8,7 @@ export default function Home() {
         <div className='home-container'>
             <Profile/>
             
-            <Footer/>
+            <HomeFooter/>
         </div>
     )
 }

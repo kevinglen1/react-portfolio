@@ -1,32 +1,19 @@
-.skills-list {
-    -webkit-text-size-adjust: 100%;
-    font-family: 'Swiss721 Hv BT heavy';
-    color: #191919;
-    box-sizing: border-box;
-    transition: all 0.3s;
-    list-style: none;
-    padding: 0;
-    display: flex;
-    flex-wrap: wrap;
-    position: relative;
-}
 .skills-section {
     display: block;
+    margin: 50px 0;
 
 }
 .wrapper {
     margin: 0 auto;
+    max-width: a;
 }
 
-.skills-list .skills-item {
-    -webkit-text-size-adjust: 100%;
-    font-family: 'Swiss721 Hv BT heavy';
-    color: #191919;
-    list-style: none;
-    box-sizing: border-box;
-    transition: all 0.3s;
+.skills-item {
     text-align: center;
-    width: 25%;
-    margin-bottom: 150px;
-    font-size: 50px;
+}
+.skills-icon {
+    font-size: 70px;
+}
+.skills-heading {
+    margin: 30px 0;
 }
