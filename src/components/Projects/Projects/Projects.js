@@ -41,7 +41,7 @@ export default function Projects() {
               imgPath={signatureImage}
               title="Email Signature"
               description="Email signature with contact info and development technologies used."
-              link="https://github.com/soumyajit4419/Editor.io"
+              link="https://github.com/kevinglen1/email-signature"
             />
           </Col>
         </Row>
@@ -61,7 +61,7 @@ export default function Projects() {
               imgPath={warImage}
               title="War!"
               description="A digital recreation of the classic card game."
-              link="https://github.com/soumyajit4419/AI_For_Social_Good"
+              link="https://github.com/kevinglen1/War-Card-Game"
             />
           </Col>
         </Row>
