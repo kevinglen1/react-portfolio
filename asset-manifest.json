@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.38e2778e.css",
+    "main.css": "/react-portfolio/static/css/main.920023c0.css",
     "main.js": "/react-portfolio/static/js/main.a22607de.js",
     "static/js/787.c4e7f8f9.chunk.js": "/react-portfolio/static/js/787.c4e7f8f9.chunk.js",
     "static/media/Poppins-Thin.ttf": "/react-portfolio/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
@@ -16,15 +16,15 @@
     "static/media/kg.png": "/react-portfolio/static/media/kg.3278f8e151cfd37e2077.png",
     "static/media/handwriting.jpg": "/react-portfolio/static/media/handwriting.ce551f890175e5d77d2a.jpg",
     "static/media/book.jpg": "/react-portfolio/static/media/book.e0d2420955f5ab67cbe7.jpg",
-    "static/media/bg.jpg": "/react-portfolio/static/media/bg.d580cd375921d13ae60d.jpg",
+    "static/media/bg.jpg": "/react-portfolio/static/media/bg.67610ab2abbec72a4c30.jpg",
     "static/media/card_game.jpg": "/react-portfolio/static/media/card_game.a28b899df00967415a09.jpg",
     "index.html": "/react-portfolio/index.html",
-    "main.38e2778e.css.map": "/react-portfolio/static/css/main.38e2778e.css.map",
+    "main.920023c0.css.map": "/react-portfolio/static/css/main.920023c0.css.map",
     "main.a22607de.js.map": "/react-portfolio/static/js/main.a22607de.js.map",
     "787.c4e7f8f9.chunk.js.map": "/react-portfolio/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.38e2778e.css",
+    "static/css/main.920023c0.css",
     "static/js/main.a22607de.js"
   ]
 }
