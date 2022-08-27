@@ -3,7 +3,7 @@ import './ProjectCard.css'
 
 export default function ProjectCard(props) {
    return (
-  <div className="card" style={{minHeight: '34rem'}}>
+  <div className="card">
     <div className="card-image">
     <img src={ props.imgPath } className="card-img-top card-img" alt="..."/>
     </div>

@@ -11,3 +11,6 @@
     bottom: 5px;
 }
 
+.card {
+    min-height: 34rem;
+}

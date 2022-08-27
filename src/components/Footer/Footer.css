@@ -4,5 +4,13 @@
 }
 
 .footer-text {
-    background-color: darkblue;
+    background-color: black;
+}
+
+#gitHub-footer-icon {
+    background-color: #333333
+}
+
+#linkedin-footer-icon {
+    background-color: #0082ca
 }

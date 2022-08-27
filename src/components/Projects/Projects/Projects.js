@@ -6,15 +6,16 @@ import storyOutlinerImage from "../../../assets/book.jpg";
 import nbaImage from "../../../assets/nba_2.jpg";
 import signatureImage from "../../../assets/handwriting.jpg";
 import inventoryImage from "../../../assets/inventory_2.jpg";
+import "./Projects.css";
 
 export default function Projects() {
   return (
-    <Container fluid className="project-section" style={{ paddingBottom: "30px" }}>
+    <Container fluid className="project-section">
       <Container>
         <h2 className="project-heading">
           My Recent <strong className="purple">Works </strong>
         </h2>
-        <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+        <Row className="project-row">
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={storyOutlinerImage}
@@ -43,7 +44,7 @@ export default function Projects() {
           </Col>
         </Row>
 
-        <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+        <Row className="project-row">
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={inventoryImage}

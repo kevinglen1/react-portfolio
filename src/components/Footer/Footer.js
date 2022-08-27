@@ -8,7 +8,7 @@ export default function Footer() {
         <section className="mb-4">
           <a
             className="social btn-primary btn-floating m-1"
-            style={{ backgroundColor: "#0082ca" }}
+            id="linkedin-footer-icon"
             href="#!"
             role="button"
           >
@@ -17,7 +17,7 @@ export default function Footer() {
 
           <a
             className="social btn-primary btn-floating m-1"
-            style={{ backgroundColor: "#333333" }}
+            id="gitHub-footer-icon"
             href="#!"
             role="button"
           >
@@ -28,7 +28,6 @@ export default function Footer() {
 
       <div
         className="footer-text text-center p-3"
-        style={{backgroundColor: "rgba(0, 0, 0, 1)"}}
       >
         kevinpeterglen@gmail.com
       </div>

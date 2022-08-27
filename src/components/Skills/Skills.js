@@ -16,7 +16,7 @@ export default function Skills() {
             My <strong>Skills</strong>
           </h2>
         </div>
-        <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+        <Row className="skill-row">
           <Col className="skills-item">
             <i className="devicon-html5-plain skills-icon"></i>
             <p>HTML5</p>
@@ -38,7 +38,7 @@ export default function Skills() {
             <p>Jira</p>
           </Col>
           </Row>
-          <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Row className="skill-row">
           <Col md className="skills-item">
             <i className="devicon-git-plain skills-icon"></i>
             <p>Git</p>
