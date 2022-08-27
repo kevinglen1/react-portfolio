@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.920023c0.css",
-    "main.js": "/react-portfolio/static/js/main.a22607de.js",
+    "main.css": "/react-portfolio/static/css/main.009556ee.css",
+    "main.js": "/react-portfolio/static/js/main.d58402bb.js",
     "static/js/787.c4e7f8f9.chunk.js": "/react-portfolio/static/js/787.c4e7f8f9.chunk.js",
     "static/media/Poppins-Thin.ttf": "/react-portfolio/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
     "static/media/Poppins-Light.ttf": "/react-portfolio/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
@@ -19,12 +19,12 @@
     "static/media/bg.jpg": "/react-portfolio/static/media/bg.67610ab2abbec72a4c30.jpg",
     "static/media/card_game.jpg": "/react-portfolio/static/media/card_game.a28b899df00967415a09.jpg",
     "index.html": "/react-portfolio/index.html",
-    "main.920023c0.css.map": "/react-portfolio/static/css/main.920023c0.css.map",
-    "main.a22607de.js.map": "/react-portfolio/static/js/main.a22607de.js.map",
+    "main.009556ee.css.map": "/react-portfolio/static/css/main.009556ee.css.map",
+    "main.d58402bb.js.map": "/react-portfolio/static/js/main.d58402bb.js.map",
     "787.c4e7f8f9.chunk.js.map": "/react-portfolio/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.920023c0.css",
-    "static/js/main.a22607de.js"
+    "static/css/main.009556ee.css",
+    "static/js/main.d58402bb.js"
   ]
 }
