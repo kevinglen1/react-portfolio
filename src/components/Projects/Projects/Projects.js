@@ -22,6 +22,7 @@ export default function Projects() {
               title="Story Outliner"
               description="A story outlining platform that uses digital index cards in the place of physical stationary in order to make the world a better place."
               link="https://github.com/kevinglen1/story-outliner"
+              deployedLink="https://kevins-story-outliner.herokuapp.com/"
             />
           </Col>
 
@@ -31,6 +32,7 @@ export default function Projects() {
               title="NBA Talent Tracker"
               description="Track the ups and downs of NBA players to inform your fantasy basketball transcations."
               link="https://github.com/kevinglen1/nba-talent-tracker"
+              deployedLink="https://nba-talent-tracker.herokuapp.com/"
             />
           </Col>
 
@@ -60,6 +62,7 @@ export default function Projects() {
               title="War!"
               description="A digital recreation of the classic card game."
               link="https://github.com/kevinglen1/War-Card-Game"
+              deployedLink="https://kevinglen1.github.io/War-Card-Game/"
             />
           </Col>
         </Row>

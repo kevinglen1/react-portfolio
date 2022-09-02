@@ -14,7 +14,7 @@ export default function ProjectCard(props) {
     </div>
     <div className="card-btn-box">
         <a href={ props.link } className="btn btn-primary card-btn">Open Code</a>
-        <a href={ props.link } className="btn btn-primary card-btn">See Live</a>
+        <a href={ props.deployedLink } className="btn btn-primary card-btn">See Live</a>
       </div>
   </div>
    )
