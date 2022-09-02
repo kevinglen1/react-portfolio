@@ -10,8 +10,12 @@ export default function ProjectCard(props) {
     <div className="card-body">
       <h5 className="card-title">{ props.title }</h5>
       <p className="card-text"> { props.description }</p>
-      <a href={ props.link } className="btn btn-primary card-btn">Open Code</a>
+      
     </div>
+    <div className="card-btn-box">
+        <a href={ props.link } className="btn btn-primary card-btn">Open Code</a>
+        <a href={ props.link } className="btn btn-primary card-btn">See Live</a>
+      </div>
   </div>
    )
 }

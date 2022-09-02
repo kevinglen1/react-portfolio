@@ -1,16 +1,22 @@
 .card-image {
     position: relative;
 }
+
 .card-img {
     object-fit: cover;
     height: 280px;
 }
 
- .card-btn {
-    position: absolute;
-    bottom: 5px;
+.card-btn {
+    width: 100%;
+    margin-bottom: 15px;
+    background-color: darkblue;
 }
 
 .card {
-    min-height: 34rem;
+    min-height: 45rem;
+}
+.card-btn-box {
+    text-align: center;
+    padding: 10px;
 }
